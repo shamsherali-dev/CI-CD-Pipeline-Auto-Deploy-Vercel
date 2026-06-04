@@ -18,7 +18,7 @@ const Page = () => {
       {/* Hero Section */}
       <header className="px-10 py-20 text-center">
         <h1 className="text-5xl font-extrabold mb-6 text-white">
-          Secure Faster. <span className="text-blue-500">Deploy Smarter and faster.</span>
+          Secure Faster. <span className="text-blue-500">Deploy Smarter.</span>
         </h1>
         <p className="text-xl text-slate-400 max-w-2xl mx-auto mb-10">
           Bridging the gap between Development, Security, and Operations.
