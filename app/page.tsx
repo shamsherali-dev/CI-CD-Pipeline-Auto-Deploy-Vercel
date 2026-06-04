@@ -21,7 +21,7 @@ const Page = () => {
           Secure Faster. <span className="text-blue-500">Deploy Smarter.</span>
         </h1>
         <p className="text-xl text-slate-400 max-w-2xl mx-auto mb-10">
-          Bridging the gap between Development, Security, and Operations.
+          Bridging the gap between The Development, Security, and Operations.
         </p>
         <button className="bg-blue-600 px-8 py-3 rounded-lg font-bold hover:bg-blue-700 transition">
           Get Started
