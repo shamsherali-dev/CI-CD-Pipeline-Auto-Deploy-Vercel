@@ -44,7 +44,7 @@ const Page = () => {
           <div className="p-8 bg-slate-950 border border-slate-800 rounded-2xl">
             <Icon d="M13 10V3L4 14h7v7l9-11h-7z" />
             <h3 className="text-xl font-semibold mt-4 mb-2">CI/CD Flow</h3>
-            <p className="text-slate-400 text-sm">Security integrated into pipelines.</p>
+            <p className="text-slate-400 text-sm">Security integrated into pipelines</p>
           </div>
         </div>
       </section>
